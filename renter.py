@@ -4,8 +4,8 @@ import tkinter as tk
 from tkinter import messagebox
 import csv
 
-filepath = 'data_file_ourdorm_1.csv'
-filepath2 = 'data_file_ourdorm_2.csv'
+filepath = 'renter_info.csv'
+filepath2 = 'utilities_info.csv'
 
 def renterMenu(mymail,myiden):
     global filepath
