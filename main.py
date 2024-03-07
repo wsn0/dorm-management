@@ -4,7 +4,7 @@ import csv
 import owner
 import renter
 
-filepath = 'data_file_ourdorm_1.csv'
+filepath = 'renter_info.csv'
 
 #checking section
 def mainMenu():
